@@ -6,3 +6,7 @@ end
 
 sum = 1 + 1
 pp sum
+
+sum.times do
+  puts "Crawling sum.."
+end
